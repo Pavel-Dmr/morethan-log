@@ -6,9 +6,9 @@ const CONFIG = {
     role: "Backend Developer",
     bio: "좋은 솔루션 개발하기",
     email: "dlrkdals227@gmail.com",
-    linkedin: "gang-min-lee-443572289/",
+    linkedin: "gang-min-lee-443572289",
     github: "Pavel-Dmr",
-    instagram: "dlrkdals227/",
+    instagram: "dlrkdals227",
   },
   projects: [
     {
