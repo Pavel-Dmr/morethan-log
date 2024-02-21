@@ -5,10 +5,10 @@ const CONFIG = {
     image: "/doggy.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Backend Developer",
     bio: "좋은 솔루션 개발하기",
-    email: "dlrkdals227.dev@gmail.com",
-    linkedin: "https://www.linkedin.com/in/gang-min-lee-443572289/",
-    github: "https://github.com/Pavel-Dmr",
-    instagram: "https://www.instagram.com/dlrkdals227/",
+    email: "dlrkdals227@gmail.com",
+    linkedin: "gang-min-lee-443572289/",
+    github: "Pavel-Dmr",
+    instagram: "dlrkdals227/",
   },
   projects: [
     {
